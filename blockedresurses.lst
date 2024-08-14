@@ -580,3 +580,6 @@ nftset=/zf.com/4#inet#fw4#vpn_domains
 nftset=/znanija.com/4#inet#fw4#vpn_domains
 nftset=/zohomail.com/4#inet#fw4#vpn_domains
 nftset=/zona.media/4#inet#fw4#vpn_domains
+nftset=/googlevideo.com/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
+nftset=/youtubekids.com/4#inet#fw4#vpn_domains
