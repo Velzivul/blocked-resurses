@@ -609,3 +609,4 @@ nftset=/pornhub.com/4#inet#fw4#vpn_domains
 nftset=/mobalytics.gg/4#inet#fw4#vpn_domains
 nftset=/cisco.com/4#inet#fw4#vpn_domains
 nftset=/openh264.org/4#inet#fw4#vpn_domains
+nftset=/ciscobinary.openh264.org/4#inet#fw4#vpn_domains
