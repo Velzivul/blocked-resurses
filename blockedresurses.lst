@@ -1134,3 +1134,5 @@ nftset=/googleads.g.doubleclick.net/4#inet#fw4#vpn_domains
 nftset=/i.ytimg.com/4#inet#fw4#vpn_domains
 nftset=/yt3.ggpht.com/4#inet#fw4#vpn_domains
 nftset=/accounts.youtube.com/4#inet#fw4#vpn_domains
+nftset=/fonts.gstatic.com/4#inet#fw4#vpn_domains
+nftset=/gstatic.com/4#inet#fw4#vpn_domains
